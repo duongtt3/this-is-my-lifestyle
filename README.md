@@ -6,3 +6,4 @@ buy seafood n vegatable
 pay the food
 go home
 prep food
+start washing dishes
