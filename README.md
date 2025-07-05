@@ -5,3 +5,4 @@ go to the market
 buy seafood n vegatable
 pay the food
 go home
+prep food
