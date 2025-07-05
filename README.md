@@ -7,3 +7,4 @@ pay the food
 go home
 prep food
 start washing dishes
+get more food 
